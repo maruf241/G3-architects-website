@@ -214,6 +214,18 @@ main >section {
 .sponsor-companies img{
    filter: grayscale(100%); 
 }
+.footer-Class{
+    background-color:rgb(255, 244, 231);
+    border-radius: 8px;
+    margin-top: 60px;
+    margin-bottom: 100px; 
+    margin-left: 120px; 
+    margin-right: 220px;
+    max-width: 1440px;
+    text-align: center;
+    padding: 40px 410px;
+   
+ }
 
 
  /* responsive media query  */
@@ -251,6 +263,15 @@ main >section {
         margin-top: 20px;
         margin-left: 20px;
      }
+     .footer-Class{
+    background-color:rgb(255, 244, 231);
+    margin-top: 60px;
+    margin-bottom: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 60px 60px;
+    text-align: center;
+    }
  }
 
 
@@ -276,23 +297,8 @@ main >section {
         margin-top: 20px;
         margin-left: 20px;
      }
+    
  }
 
- .footer-bg{
-    width: 1440px;
-    height: ;
-    color: rgb(255, 244, 231);
- }
+ 
 
- .footer-Class{
-    background-color:rgb(255, 244, 231);
-    border-radius: 8px;
-    margin-top: 60px;
-    margin-bottom: 100px;
-    margin-left: 120px;
-    margin-right: 220px;
-    max-width: 1440px;
-    text-align: center;
-    padding: 40px 410px;
-   
- }
